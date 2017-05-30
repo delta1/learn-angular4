@@ -29,6 +29,8 @@ ng serve
 ```
 - This creates a new Angular 4 app called in directory my-app
 - ```ng serve``` starts a webserver that bundles your JS modules with "hot reloading" that changes as you save your code 
+- Use an editor or IDE like [Visual Studio Code](https://code.visualstudio.com/) to open the my-app folder and browse to the ```src``` folder
+- Open the ```index.html``` file 
 
 
 ## LINKS
