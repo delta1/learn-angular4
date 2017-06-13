@@ -20,4 +20,13 @@
 - ```cd my-app```
 - ```npm start``` or ```ng serve``` ( look at package.json, "start" script just runs ng serve )
 
+### What just happened? 
+- Angular CLI created a new folder called ```my-app``` and a number of files as the base of the new Angular app
+- ````my-app/package.json``` file defines the app dependencies from NPM and other metadata about the app
+- Packages are installed from NPM to allow the app to function
+- ```ng serve``` starts a web-server that serves the ```src/index.html``` file
+- The hot reloading web-server reads this file, injects Angular onto the page, and the "bootstraps" (starts) the Angular app. See ```src/app/app.module.ts``` which imports the AppComponent and bootstraps the app with that component
+- ```src/app/app.component.ts``` defines the AppComponent class and links to the template and the css. It also defines the "selector" ```app-root``` which you can see on ```src/index.html``` - this is the directive which Angular is using to insert our AppComponent 
+
+- 
 
