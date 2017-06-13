@@ -15,4 +15,9 @@
 - [Dependency injection](https://angular.io/guide/architecture#dependency-injection) - Dependency Injection is the process of providing your dependencies to your Angular app modules and components so that they are not hard-coded into your component but can be interchanged more easily or even mocked out for testing purposes. 
 
 ## Create Angular app and component with the CLI 
-- 
+- Recap from Lesson1 to create a new app
+- ```ng new my-app```
+- ```cd my-app```
+- ```npm start``` or ```ng serve``` ( look at package.json, "start" script just runs ng serve )
+
+
