@@ -1,5 +1,5 @@
 # Let's learn Angular 4!
-<a href="https://angular.io"><img src="https://angular.io/resources/images/logos/angular/angular.svg" width="120"></a>
+<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120"></a>
 
 - [angular.io website](https://angular.io)
 
@@ -8,7 +8,7 @@
 
 ## Angular 4 Lessons
 - [Lesson 1 - All the "new" things: ES6, TypeScript, Angular CLI](Lesson1/index.md)
-- Lesson 2
-- 
+- [Lesson 2 - Angular 4 Fundamentals](Lesson2/index.md)
+- Lesson 3 ... 
 
 
