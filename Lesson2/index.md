@@ -14,7 +14,7 @@
 - [Services](https://angular.io/guide/architecture#services) - Services provide values, functions or features to your Components and Modules. eg: logging service, database service, http request service 
 - [Dependency injection](https://angular.io/guide/architecture#dependency-injection) - Dependency Injection is the process of providing your dependencies to your Angular app modules and components so that they are not hard-coded into your component but can be interchanged more easily or even mocked out for testing purposes. 
 
-## Create Angular app and component with the CLI 
+## Create Angular app with the CLI 
 - Recap from Lesson1 to create a new app
 - ```ng new my-app```
 - ```cd my-app```
@@ -27,6 +27,22 @@
 - ```ng serve``` starts a web-server that serves the ```src/index.html``` file
 - The hot reloading web-server reads this file, injects Angular onto the page, and the "bootstraps" (starts) the Angular app. See ```src/app/app.module.ts``` which imports the AppComponent and bootstraps the app with that component
 - ```src/app/app.component.ts``` defines the AppComponent class and links to the template and the css. It also defines the "selector" ```app-root``` which you can see on ```src/index.html``` - this is the directive which Angular is using to insert our AppComponent 
+
+### Create a new component with the CLI 
+- ```ng generate component my-new-component``` 
+- creates a new folder and files ```src/app/my-new-component```
+- adds my-new-component to the declarations in ```src/app/app.module.ts```
+- Take a look at ```src/app/my-new-component/my-new-component.component.ts``` 
+- The selector for this component is ```app-my-new-component```
+- Now edit ```src/app/app.component.html``` template 
+- Add our new selector to it at the bottom 
+- Save your files and run ```ng serve``` 
+- Go to [http://localhost:4200] 
+- You should see your new component template is now included in your app!
+- Components are our fundamental building block for making apps with reusable functionality! 
+
+### Let's build a "Counter" component
+- todo
 
 
 
