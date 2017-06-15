@@ -38,10 +38,13 @@
 - Add our new selector to it at the bottom 
 <img src="img/newcomponent.png">
 - Save your files and run ```ng serve``` 
+
 - Go to [http://localhost:4200](http://localhost:4200)
+
 <img src="img/app1.png">
-- You should see your new component template is now included in your app!
-- Components are our fundamental building block for making apps with reusable functionality! 
+
+- **You should see your new component template is now included in your app!**
+- **Components are our fundamental building block for making apps with reusable functionality! **
 
 ### Let's build a "Counter" component
 #### Specification
