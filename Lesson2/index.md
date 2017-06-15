@@ -36,13 +36,26 @@
 - The selector for this component is ```app-my-new-component```
 - Now edit ```src/app/app.component.html``` template 
 - Add our new selector to it at the bottom 
+<img src="img/newcomponent.png">
 - Save your files and run ```ng serve``` 
-- Go to [http://localhost:4200] 
+- Go to [http://localhost:4200](http://localhost:4200)
+<img src="img/app1.png">
 - You should see your new component template is now included in your app!
 - Components are our fundamental building block for making apps with reusable functionality! 
 
 ### Let's build a "Counter" component
-- todo
+#### Specification
+- The Counter component should display a number, the counter value in an <h2> tag
+- The Counter component should have an increment button
+- Click the increment button should add 1 to the counter value and show the updated value on the screen
+
+#### Build
+- Create a new component ```ng generate component counter```
+- Add the ```<counter></counter>``` selector to our app component
+- Define the counter value and an increment function in our Counter component class
+- Edit the Counter template to display a value in an ```<h2>``` tag
+- Add an increment button to the Counter template and link it to the increment function
+- Test the Counter
 
 
 
