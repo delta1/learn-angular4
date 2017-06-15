@@ -36,7 +36,9 @@
 - The selector for this component is ```app-my-new-component```
 - Now edit ```src/app/app.component.html``` template 
 - Add our new selector to it at the bottom 
+
 <img src="img/newcomponent.png">
+
 - Save your files and run ```ng serve``` 
 
 - Go to [http://localhost:4200](http://localhost:4200)
