@@ -45,17 +45,17 @@
 
 ### Let's build a "Counter" component
 #### Specification
-- The Counter component should display a number, the counter value in an <h2> tag
+- The Counter component should display a number, the counter value in an ```<h2>``` tag
 - The Counter component should have an increment button
-- Click the increment button should add 1 to the counter value and show the updated value on the screen
+- Clicking the increment button should add 1 to the counter value and show the updated value on the screen
 
 #### Build
-- Create a new component ```ng generate component counter```
-- Add the ```<counter></counter>``` selector to our app component
-- Define the counter value and an increment function in our Counter component class
-- Edit the Counter template to display a value in an ```<h2>``` tag
-- Add an increment button to the Counter template and link it to the increment function
-- Test the Counter
+1. Create a new component ```ng generate component counter```
+2. Add the ```<counter></counter>``` selector to our app component
+3. Define the counter value and an increment function in our Counter component class
+4. Edit the Counter template to display a value in an ```<h2>``` tag
+5. Add an increment button to the Counter template and link it to the increment function
+6. Test the Counter
 
 
 
