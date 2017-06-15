@@ -50,14 +50,24 @@
 - Clicking the increment button should add 1 to the counter value and show the updated value on the screen
 
 #### Build
+
 1. Create a new component ```ng generate component counter```
+
 2. Add the ```<counter></counter>``` selector to our app component
-<img src="img/counter1.png" width="50">
+
+<img src="img/counter1.png">
+
 3. Define the counter value and an increment function in our Counter component class
-<img src="img/counter2.png" width="50">
+
+<img src="img/counter2.png">
+
 4. Edit the Counter template to display a value in an ```<h2>``` tag
+
 5. Add an increment button to the Counter template and link it to the increment function
-<img src="img/counter3.png" width="50">
+
+<img src="img/counter3.png">
+
 6. Test the Counter ```ng serve```
-<img src="img/counter4.png" width="50">
+
+<img src="img/counter4.png">
 
