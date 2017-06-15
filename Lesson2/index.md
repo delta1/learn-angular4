@@ -52,12 +52,12 @@
 #### Build
 1. Create a new component ```ng generate component counter```
 2. Add the ```<counter></counter>``` selector to our app component
-<img src="counter1.png" width="50">
+<img src="img/counter1.png" width="50">
 3. Define the counter value and an increment function in our Counter component class
-<img src="counter2.png" width="50">
+<img src="img/counter2.png" width="50">
 4. Edit the Counter template to display a value in an ```<h2>``` tag
 5. Add an increment button to the Counter template and link it to the increment function
-<img src="counter3.png" width="50">
+<img src="img/counter3.png" width="50">
 6. Test the Counter ```ng serve```
-<img src="counter4.png" width="50">
+<img src="img/counter4.png" width="50">
 
