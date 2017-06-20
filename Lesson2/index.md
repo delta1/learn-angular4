@@ -80,3 +80,6 @@
 
 <img src="img/counter4.png">
 
+#### Extra Credit
+- Define an "increment value" using a text box
+- Clicking the increment button should then increment the counter by the increment value 
