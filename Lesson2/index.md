@@ -1,5 +1,9 @@
 # Lesson 2 - Angular 4 Fundamentals
 
+## Important Links
+- [angular.io website](https://angular.io/)
+- [angular docs](https://angular.io/docs)
+
 ## Introduction
 - Read through Angular documentation on [Architecture](https://angular.io/guide/architecture) 
 
