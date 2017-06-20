@@ -62,7 +62,7 @@
 
 1. Create a new component ```ng generate component counter```
 
-2. Add the ```<counter></counter>``` selector to our app component
+2. Add the Counter selector to our app component
 
 <img src="img/counter1.png">
 
