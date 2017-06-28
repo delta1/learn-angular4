@@ -9,6 +9,7 @@
 ## Angular 4 Lessons
 - [Lesson 1 - All the "new" things: ES6, TypeScript, Angular CLI](Lesson1/index.md)
 - [Lesson 2 - Angular 4 Fundamentals](Lesson2/index.md)
-- Lesson 3 ... 
+- [Lesson 3 - Services](Lesson3/index.md) 
+- Lesson 4... 
 
 
