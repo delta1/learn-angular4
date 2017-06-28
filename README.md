@@ -3,7 +3,7 @@
 
 - [angular.io website](https://angular.io)
 
-## Web fundamentals are important! 
+### Prerequisites: Web fundamentals 
 - [Lesson 0 - Web Fundamentals](https://github.com/delta1/learn-angular1/blob/master/Lesson0/index.md) is still extremely important, go over it again. 
 
 ## Angular 4 Lessons
