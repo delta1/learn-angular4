@@ -43,6 +43,7 @@
 - Clicking the random button should call the random function, which should update the counter value and increment value with random numbers 
 
 
-
+## Code repo
+- Follow the code repo: [https://github.com/delta1/ng4-tutorial](https://github.com/delta1/ng4-tutorial)
 
 
