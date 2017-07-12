@@ -10,7 +10,8 @@
 - [Lesson 1 - All the "new" things: ES6, TypeScript, Angular CLI](Lesson1/index.md)
 - [Lesson 2 - Angular 4 Fundamentals](Lesson2/index.md)
 - [Lesson 3 - Services](Lesson3/index.md) 
-- Lesson 4... 
+- [Lesson 4 - Directives](Lesson4/index.md)
+- Lesson 5...
 
 ## Code repo
 Follow along with the code we develop here
