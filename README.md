@@ -1,4 +1,4 @@
-# Let's learn Angular 4!
+# Learn Angular 4!
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120"></a>
 
 - [angular.io website](https://angular.io)
