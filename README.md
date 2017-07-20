@@ -17,4 +17,5 @@
 ## Code repo
 Follow along with the code we develop here
 - [https://github.com/delta1/ng4-tutorial](https://github.com/delta1/ng4-tutorial) 
+- https://github.com/delta1/heroes-tour
 
