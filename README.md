@@ -11,7 +11,8 @@
 - [Lesson 2 - Angular 4 Fundamentals](Lesson2/index.md)
 - [Lesson 3 - Services](Lesson3/index.md) 
 - [Lesson 4 - Directives](Lesson4/index.md)
-- Lesson 5...
+- [Lesson 5 - Tour of Heroes Part 1](Lesson5/index.md)
+- Lesson 6 - Tour of Heroes Part 2...
 
 ## Code repo
 Follow along with the code we develop here
