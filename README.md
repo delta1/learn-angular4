@@ -14,7 +14,7 @@
 - [Lesson 5 - Tour of Heroes Part 1](Lesson5/index.md)
 - Lesson 6 - Tour of Heroes Part 2...
 
-## Code repo
+## Code repos
 Follow along with the code we develop here
 - [https://github.com/delta1/ng4-tutorial](https://github.com/delta1/ng4-tutorial) 
 - https://github.com/delta1/heroes-tour
