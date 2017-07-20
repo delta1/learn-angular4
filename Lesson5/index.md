@@ -8,3 +8,5 @@
 
 ## Master Detail
 - Then move on to here: https://angular.io/tutorial/toh-pt2 
+
+### Follow our tour of heroes code here: https://github.com/delta1/heroes-tour
