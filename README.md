@@ -12,7 +12,8 @@
 - [Lesson 3 - Services](Lesson3/index.md) 
 - [Lesson 4 - Directives](Lesson4/index.md)
 - [Lesson 5 - Tour of Heroes Part 1](Lesson5/index.md)
-- Lesson 6 - Tour of Heroes Part 2...
+- [Lesson 6 - Tour of Heroes Part 2](Lesson6/index.md)
+- Lesson 7 - Tour of Heroes Part 3...
 
 ## Code repos
 Follow along with the code we develop here
